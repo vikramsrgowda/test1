@@ -1,0 +1,8 @@
+EDI Client Call Query 
+1. SPS Portal access and API credential for the testing environment
+2. Test Directories for the IN & OUT Operation 
+3. Sample Order Json Files in testout directory for get orders in api  - marketplace wise orders files
+4. marketplace details 
+5. sample invoice files for send invoice to SPS
+6 ASN (EDI 856) - sample files 
+7. Understand Required fields and data from SPS
